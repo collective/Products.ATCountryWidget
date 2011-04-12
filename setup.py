@@ -11,8 +11,10 @@ setup(
     author = "Daniel Havlik",
     author_email = "dh@gocept.com",
     description = "A country widget for Archetypes",
-    long_description = open(os.path.join('src', 'Products',
-        'ATCountryWidget', 'README.txt')).read(),
+    long_description = 
+        open(os.path.join('README.txt')).read() +
+        open(os.path.join('docs','CHANGES.txt')).read() + 
+        open(os.path.join('docs','AUTHORS.txt')).read(),
     license = "ZPL 2.1",
     keywords = "archetypes plone",
     url='http://pypi.python.org/pypi/Products.ATCountryWidget',

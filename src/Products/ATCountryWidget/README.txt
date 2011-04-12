@@ -89,5 +89,4 @@ country tool provides::
    </select>
 
 For more details on how to customize content-types, add custom fields to
-content-types, see Martin's tutorial:
-http://plone.org/documentation/how-to/adding-new-fields-to-smart-folders-search/documentation/tutorial/richdocument/extending-atct
+content-types, see Martin's tutorial: http://plone.org/documentation/kb/richdocument/extending-atct

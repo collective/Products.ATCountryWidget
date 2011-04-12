@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 name = "Products.ATCountryWidget"
 setup(
     name = name,
-    version = "0.2.6dev",
+    version = "0.2.6",
     author = "Daniel Havlik",
     author_email = "dh@gocept.com",
     description = "A country widget for Archetypes",

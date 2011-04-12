@@ -5,3 +5,5 @@ Daniel Havlik (dh@gocept.com)
 Additional credits:
 
  - Norman H. Voss for a patch (04/2006)
+ - Alex Clark for releasing Plone 4 compat version (from gocept trunk,
+   04/2011)

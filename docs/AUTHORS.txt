@@ -10,5 +10,5 @@ Additional credits:
 -------------------
 
  - Norman H. Voss for a patch (04/2006)
- - Alex Clark for releasing Plone 4 compat version (from gocept trunk version
+ - Alex Clark for releasing Plone 4 compat version (from gocept trunk
    moved to the collective, 04/2011)

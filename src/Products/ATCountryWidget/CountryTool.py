@@ -212,7 +212,7 @@ class CountryUtils(UniqueObject, SimpleItem):
             return self.country_tab(manage_tabs_message='Area added')
 
     security.declareProtected(manage_properties,
-                              'manage_counties_addCountryToArea')
+                              'manage_countries_addCountryToArea')
     def manage_countries_addCountryToArea(self, area, ccs, REQUEST=None):
         """add country to area"""
         clist = self._country_list

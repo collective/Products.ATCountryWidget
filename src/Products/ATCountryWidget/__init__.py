@@ -17,8 +17,9 @@ registerDirectory(SKINS_DIR, GLOBALS)
 def initialize(context):
     #tool
     import CountryTool
-    tool = cmfcutils.ToolInit('Country Tool', tools=(CountryTool.CountryUtils,),
-                          product_name='Country_Tool', icon='www/tool.gif')
+    tool = cmfcutils.ToolInit('Country Tool',
+                              tools=(CountryTool.CountryUtils,),
+                              icon='www/tool.gif')
     tool.initialize(context)
 
     #validator

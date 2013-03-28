@@ -85,7 +85,7 @@ def install(self):
         countrytool.manage_countries_sortArea('Caribbean')
 
         countrytool.manage_countries_addArea('Africa')
-        countrytool.manage_countries_addCountryToArea('Africa', ['DZ','AO','BJ','BW','BV','BF','BI','CM','CV','CF','TD','KM','CD','CG','CI','EG','GQ','ER','ET','TF','GA','GM','GN','GW','KE','LS','LR','LY','MG','MW','ML','MR','MU','YT','MA','MZ','NA','NE','NG','RE','RW','ST','SN','SC','SL','SO','ZA','SD','SZ','TZ','TG','TN','UG','ZM','ZW','GH','DJ','EH','SH'])
+        countrytool.manage_countries_addCountryToArea('Africa', ['DZ','AO','BJ','BW','BV','BF','BI','CM','CV','CF','TD','KM','CD','CG','CI','EG','GQ','ER','ET','TF','GA','GM','GN','GW','KE','LS','LR','LY','MG','MW','ML','MR','MU','YT','MA','MZ','NA','NE','NG','RE','RW','ST','SN','SC','SL','SO','ZA','SD','SS','SZ','TZ','TG','TN','UG','ZM','ZW','GH','DJ','EH','SH'])
         countrytool.manage_countries_sortArea('Africa')
 
 

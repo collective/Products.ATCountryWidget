@@ -208,6 +208,7 @@ COUNTRIES = {
     'SH':'St. Helena',
     'PM':'St. Pierre And Miquelon ',
     'SD':'Sudan ',
+    'SS':'South Sudan ',
     'SR':'Suriname',
     'SJ':'Svalbard And Jan Mayen Islands',
     'SZ':'Swaziland ',

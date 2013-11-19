@@ -217,7 +217,7 @@ msgid "St. Pierre And Miquelon"
 msgstr "San Pedro y Miquelón"
 
 msgid "United States"
-msgstr "Estado Unidos"
+msgstr "Estados Unidos"
 
 msgid "United States Minor Outlying Islands"
 msgstr "Islas Ultramarinas menores de Estados Unidos"

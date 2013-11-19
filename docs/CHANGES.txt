@@ -2,6 +2,10 @@
 Changelog
 =========
 
+2013-11-19
+    - Fix country names which prevent translations
+    [gil-cano]
+
 2011-06-20
     - Fixing small issues
     - Adding Spanish translation

@@ -415,7 +415,7 @@ msgid "Hong Kong"
 msgstr "Hong Kong"
 
 msgid "Japan"
-msgstr "Japan"
+msgstr "Japón"
 
 msgid "Korea, Democratic People's Republic Of"
 msgstr "Corea del Norte"

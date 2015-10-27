@@ -1,0 +1,5 @@
+*~
+*.mo
+*.egg-info
+*.py[co]
+
